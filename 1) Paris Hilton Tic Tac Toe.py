@@ -246,7 +246,7 @@ while True:
             c11 =  Rectangle(Point(0,0), Point(320,20))
             c11.setFill('pink')
             c11.draw(win)
-            Text(Point(150,10), "Stupid bitch, no one won").draw(win) 
+            Text(Point(150,10), "Ugh, no one won").draw(win) 
             X = input("Press ENTER to close")    
             break    
 
